@@ -51,4 +51,5 @@ npm run dev
 Відкрити браузер за адресою, яку виведе Vite (зазвичай http://localhost:5173)
 
 👤 Автор
+
 Валерій / iEarsti
